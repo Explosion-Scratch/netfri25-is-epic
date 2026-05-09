@@ -94,3 +94,4 @@ Make a PR to remove yourself if you want to do it again
 - [voxalice2](https://github.com/voxalice2)
 - [redspacecat](https://github.com/redspacecat)
 - [7salad3salad](https://github.com/7salad3salad)
+- [rubiidev18alt](https://github.com/rubiidev18alt)
