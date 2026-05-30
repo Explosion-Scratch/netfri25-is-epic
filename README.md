@@ -97,3 +97,4 @@ Make a PR to remove yourself if you want to do it again
 - [rubiidev18alt](https://github.com/rubiidev18alt)
 - [medlans](https://github.com/medlans)
 - [heathercat123](https://github.com/heathercat123)
+- [kkhaustov](https://github.com/kkhaustov)
