@@ -106,3 +106,4 @@ Make a PR to remove yourself if you want to do it again
 - [ericswpark](https://github.com/ericswpark)
 - [O957](https://github.com/O957)
 - [SnO2WMaN](https://github.com/SnO2WMaN)
+- [cannorin](https://github.com/cannorin)
